@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CustomerDataExtraction", "CustomerDataExtraction\CustomerDataExtraction.dtproj", "{B477183B-043B-4941-B5CF-863D143F198C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B477183B-043B-4941-B5CF-863D143F198C}.Development|Default.ActiveCfg = Development
+		{B477183B-043B-4941-B5CF-863D143F198C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44FE3887-73A8-4925-ACBF-BB645F43CF76}
+	EndGlobalSection
+EndGlobal
